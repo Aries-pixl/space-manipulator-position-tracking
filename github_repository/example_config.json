@@ -1,0 +1,18 @@
+{
+  "case": {
+    "name": "uncertain",
+    "inertia": 0.2,
+    "disturbance": 0.12,
+    "initial": 0.003,
+    "duration": 8.0
+  },
+  "seed": 100,
+  "gain": 4.0,
+  "effort": 0.002,
+  "methods": [
+    "mpc",
+    "mpc_posture",
+    "mpc_residual",
+    "full"
+  ]
+}

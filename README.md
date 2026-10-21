@@ -82,7 +82,7 @@ Version: 1.0.0 (tag `v1.0.0`).
 
 Source repository: https://github.com/Aries-pixl/space-manipulator-position-tracking
 
-Versioned example-code/data archive: 10.5281/zenodo.23526932
+Versioned example-code/data archive: https://doi.org/10.5281/zenodo.23526932
 
  The archive DOI is not a journal article DOI. Author metadata are supplied in `CITATION.cff`.
 

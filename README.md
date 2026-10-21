@@ -80,7 +80,7 @@ See `VALIDATION.md` for checks performed on this small package.
 
 Version: 1.0.0 (tag `v1.0.0`).
 
-Source repository: [[GITHUB_URL]]
+Source repository: https://github.com/Aries-pixl/space-manipulator-position-tracking
 
 Versioned example-code/data archive: [[ZENODO_DOI_URL]]
 

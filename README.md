@@ -84,10 +84,8 @@ Source repository: https://github.com/Aries-pixl/space-manipulator-position-trac
 
 Versioned example-code/data archive: 10.5281/zenodo.23526932
 
-Replace the markers with the actual public addresses. The archive DOI is not a
-journal article DOI. Author metadata are supplied in `CITATION.cff`.
+ The archive DOI is not a journal article DOI. Author metadata are supplied in `CITATION.cff`.
 
 No additional software/data reuse license has been selected for this prepared
 package. Public access alone does not grant an MIT or Creative Commons license.
-The authors should select the intended terms before publication. Third-party
-libraries retain their own licenses and are installed rather than redistributed.
+Third-party libraries retain their own licenses and are installed rather than redistributed.

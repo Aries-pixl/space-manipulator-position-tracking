@@ -18,5 +18,5 @@ authors:
     given-names: "Dawei"
   - family-names: "Yan"
     given-names: "Biao"
-# repository-code:  https://github.com/Aries-pixl/space-manipulator-position-tracking
-# doi: 10.5281/zenodo.23526932
+repository-code:  https://github.com/Aries-pixl/space-manipulator-position-tracking
+doi: 10.5281/zenodo.23526932
